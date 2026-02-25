@@ -105,9 +105,6 @@ The XGBoost model achieved the highest accuracy of 90%, making it the best-perfo
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Data was anonymized and used ethically with parental consent.
 - Thanks to the contributors who supported this analysis.
